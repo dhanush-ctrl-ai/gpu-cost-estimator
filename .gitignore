@@ -27,6 +27,11 @@ go.work.sum
 # env file
 .env
 
+# Project build artifacts
+gpu-cost
+probe/probe.o
+*.o
+
 # Editor/IDE
 # .idea/
 # .vscode/
